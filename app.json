@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "contactsApp",
-    "slug": "contactsApp",
+    "name": "reactnative_contacts",
+    "slug": "snack-7bc7d28e-5cb9-48f2-befd-3e8475cb8e4e",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
